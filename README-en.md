@@ -1,10 +1,10 @@
-<h1> Technical Map of Back-end Architects </ h1>
+<h1> Technical Map of Back-end Architects </h1>
 
 
 
-<b style = "color: red"> Recommended: </ b> [《Technical Books of Java》-awesome-java-books] (https://github.com/sorenduan/awesome-java-books)
-<p> From junior developers to senior architects, reading these books is enough </ p>
-<hr />
+<b style = "color: red"> Recommended: </b> [《Technical Books of Java》-awesome-java-books] (https://github.com/sorenduan/awesome-java-books)
+<p> From junior developers to senior architects, reading these books is enough </p>
+<hr/>
 
 [! [Creative Commons Agreement (CC Agreement)] (https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)] (https://creativecommons.org/licenses/by-nc- sa / 4.0 / deed.zh)
 [! [GitHub stars] (https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat&label=Star)] (https://github.com/xingshaocheng/architect-awesome / stargazers)
